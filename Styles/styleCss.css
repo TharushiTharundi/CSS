@@ -1,0 +1,284 @@
+
+body{
+   padding: 15px 15px 15px 15px;
+   text-align: center;
+   position: relative;
+}
+
+hr{
+  width: 100%;
+ color: #000033;
+}
+
+/* 1st section css settings */
+.div1{
+    background-color:#070c26;
+    height:28%;
+}
+.left{
+  display: inline;
+  width: 25%;
+  position: absolute;
+  top: 1%;
+  left: 0%;
+  float: left;
+}
+
+.right{
+  display: inline;
+  width: 25%;
+  float: right;
+  position: absolute;
+  top: 1%;
+  right: 0%;
+}
+
+.divl-p-name{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    font-style: italic;
+    font-family:'Roboto Condensed', sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+    letter-spacing: 10px;
+}
+
+
+
+.div1-p-inter{
+    font-size: 25px;
+    text-align: center;
+    color:#f2d3eb;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+} 
+
+
+ .div1-p-img1{
+    width: 100%;
+    height: 450px;
+    margin-top: 10px;
+ }
+
+ .div1-p-img2{
+    width: 48%;
+    height: 350px;
+    width: 350px;
+    display: inline;
+    float: left;
+    margin-left: 20px;
+    border-radius: 5%;
+    margin-left: 180px;
+ }
+
+ .div1-p-img3{
+    width: 48%;
+    height: 350px;
+    width: 350px;
+    display: inline;
+    float:right;
+    margin-right: 20px;
+    border-radius: 5%;
+    margin-right: 180px;
+ }
+
+
+  /* End 1st div css settings */
+
+/* 
+ start 2nd div css settings */
+
+ .div2{
+   
+   height: 1350px;
+ }
+
+
+ .div2-div-img{
+   width: 300px;
+   margin-left: 40px;
+   margin-top: 8.2%;
+   
+ }
+
+
+ .div2-div-hlo{
+   font-size: 30px;
+   text-align: center;
+   font-family: "Sofia", sans-serif;
+   text-shadow: 3px 3px 3px #ababab;
+   letter-spacing: 10px;
+   color: #000033;
+
+ }
+ th{
+   width: 50%;
+   /* margin-top: 10px; */
+   font-family: 'Edu NSW ACT Foundation', cursive;
+   font-size: 30px;
+   text-transform: uppercase;
+ }
+
+ span{
+   font-size: 20px;
+   color: 	#000080;
+   text-transform: uppercase;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ p{
+   font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .div2-column2-ex-details{
+   margin-top: 15px;
+ }
+ /* end 2nd div css settings */
+
+
+ /* start 3rd div css settings */
+
+ .div3{
+  width: 100%;
+  margin-top: 30%;
+ }
+ .div3-div1-left{
+  float: left;
+  width: 70%;
+ 
+ }
+ 
+ .div3-div1-right{
+  float: right;
+  width: 30%;
+  width: 200px;
+  margin-right: 150px;
+  
+ }
+
+ .div3-div1-left-topic{
+   font-size: 30px;
+   text-align: center;
+   font-family: "Sofia", sans-serif;
+   text-shadow: 3px 3px 3px #ababab;
+   letter-spacing: 10px;
+   padding-top: 30px;
+   color: #000033;
+  }
+
+  .div3-div1-left-details{
+    margin-left: 30px;
+  }
+  .div3-div1-left-topic-corner , .div3-div2-right-topic-corner{
+    text-align: left;
+  }
+
+ .div3-div1-right-img{
+  width: 300px;
+  height:300px;
+  border-radius: 20%;
+ }
+
+ .div3-div2-left{
+  float: left;
+  margin-top: 50px;
+ }
+
+ .div3-div2-left-img{
+  width: 300px;
+  height: 300px;
+  margin-left: 30px;
+  border-radius: 20%;
+ }
+
+ .div3-div2-right{
+  float: right;
+  margin-top: 50px;
+ }
+
+ .div3-div2-right-topic{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Sofia", sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+  letter-spacing: 10px;
+  padding-top: 30px;
+  color: #000033;
+
+ }
+ 
+
+ /* end 3rd div css settings */
+
+
+ /* start 4th div css settings */
+
+ .div4-footer-details{
+  margin-top: 80%;
+  background-color: #000033;
+ }
+
+ .div4-foooter-p-any{
+  font-size: 30px;
+  padding-top: 50px;
+  font-family: "Sofia", sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+  color:white;
+  
+ }
+ .div4-foooter-p-contact{
+  font-size: 20px;
+  padding-top: 5px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px 2px #1589FF;
+  color:#1589FF;
+  text-transform: uppercase;
+ }
+
+ .div4-footer-p-click{
+  padding-top: 15px;
+ }
+
+ .button-clickme{
+  background-color: white;
+  color: #000033;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 15px 15px 15px 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+ }
+
+ .div4-footer-fb{
+  width: 60px;
+  height: 60px;
+  margin-top: 30px;
+  display: inline;
+ }
+
+ 
+ .div4-footer-linkdin{
+  width: 60px;
+  height: 60px;
+  margin-top: 30px;
+  display: inline;
+ }
+
+ .div4-footer-p-icon{
+  padding-top: 20px;
+ }
+ .div4-footer-p-fb{
+  display: inline;
+ 
+ }
+
+ .div4-footer-p-linkdin{
+  display: inline;
+  margin-left: 30px;
+ }
+
+ /* end 4th div css settings */
